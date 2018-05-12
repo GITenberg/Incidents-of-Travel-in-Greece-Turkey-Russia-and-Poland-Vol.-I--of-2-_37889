@@ -1,0 +1,34 @@
+_repo: Incidents-of-Travel-in-Greece-Turkey-Russia-and-Poland-Vol.-I--of-2-_37889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, John L.
+    alias: Stephens, John Lloyd
+    birthdate: 1805
+    deathdate: 1852
+    gutenberg_agent_id: '39116'
+    url: http://www.gutenberg.org/2009/agents/39116
+description: 7th edition.
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Description and travel'
+- !lcc 'DF'
+- !lcsh 'Russia -- Description and travel'
+- !lcc 'DK'
+- !lcsh 'Turkey -- Description and travel'
+- !lcsh 'Poland -- Description and travel'
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'DR'
+title: Incidents of Travel in Greece, Turkey, Russia, and Poland, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/37889
