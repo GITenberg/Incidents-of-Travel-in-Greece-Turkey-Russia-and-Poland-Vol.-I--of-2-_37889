@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39116'
     url: http://www.gutenberg.org/2009/agents/39116
 description: 7th edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37889#Incidents-of-Travel-in-Greece-Turkey-Russia-and-Poland-Vol.-I--of-2-
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-10-30'
 gutenberg_type: Text
